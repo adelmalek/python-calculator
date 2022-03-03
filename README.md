@@ -1,0 +1,2 @@
+- Python Calculator
+- Simple mini python project 
